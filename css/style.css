@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 40px;
+    margin: 20px;
+
+}
+
+.sakib{
+    background: rgb(10, 156, 175);
+    color: whitesmoke;
+    text-align: center;
+    height: 50vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-image: url(../images/sakib.webp);
+    background-position-y: -50px;
+    background-size: cover;
+    background-blend-mode: overlay;
+    margin: 0 20px;
+
+
+}
+
+.mushfiq{
+    background: rgb(10, 156, 175);
+    color: whitesmoke;
+    text-align: center;
+    height: 50vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-image: url(../images/mushfiqur.webp);
+    background-position-y: -50px;
+    background-size: cover;
+    background-blend-mode: overlay ;
+    margin: 0 20px;
+
+}
+
+.tamim{
+    background: rgb(10, 156, 175);
+    color: whitesmoke;
+    text-align: center;
+    height: 50vh;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-image: url(../images/tamim.jpg);
+    background-position-y: -50px;
+    background-size: cover;
+    background-blend-mode: overlay;
+    margin: 0 20px;
+
+
+}
+
+.mahmudulla{
+    background: rgb(10, 156, 175);
+    color: whitesmoke;
+    text-align: center;
+    height: 50vh;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-image: url(../images/mahmudullah.jpg);
+    background-position-y: -50px;
+    background-size: cover;
+    background-blend-mode: overlay;
+    margin: 0 20px;
+
+}
